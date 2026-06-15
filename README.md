@@ -1,4 +1,4 @@
-# ¡Hola! Soy Nicolle 
+                                        # ¡Hola! Soy Nicolle 
 
 Soy estudiante de desarrollo de software enfocada en crear soluciones eficientes y aprender constantemente. Me entusiasma el desarrollo full-stack y la resolución de problemas lógicos y matemáticos.
 
