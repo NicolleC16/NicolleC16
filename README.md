@@ -1,4 +1,4 @@
-                                              # Nicolle Carvajal 
+                                                       # Nicolle Carvajal 
 
 Soy estudiante de desarrollo de software enfocada en aprender y conocer de este mundo de tecnologia el cual se divide en muchas partes, con ganas de hacer grandes innovaciones y poder ayudar a muchas personas. 
 
@@ -12,10 +12,11 @@ Soy estudiante de desarrollo de software enfocada en aprender y conocer de este 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### Mis Proyectos Recientes
 
 
-### 📫 ¿Cómo contactarme?
+### ¿Cómo contactarme?
 
 
